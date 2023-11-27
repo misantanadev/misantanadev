@@ -3,4 +3,13 @@
 - 👩🏻‍💻 Professional training course in Full Stack Software Development completed in May, 2023 at Cubos Academy;
 - 📚 I'm currently learning TailwindCSS;
 - 📫 How to reach me: mlenasantanasantos@gmail.com;
-- 🛠 Technical abilities: `HTML` `CSS` `TypeScript` `React.js` `Next.js` `SQL` `PostgreSQL` `API Rest` `Node.js` `Express.js` `Git` `Github`;
+- 🛠 Technical abilities:
+  - HTML
+  - CSS
+  - JavaScript/TypeScript
+  - Node.js
+  - React.js
+  - PostgreSQL
+  - Git/Github
+  - Express.js
+  - API Rest
