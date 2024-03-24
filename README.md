@@ -1,6 +1,6 @@
 <b>Hello, I'm Milena</b>
 
-- 💼 Working at AQUARELA as a Junior Software Developer since November 2023.
+- 💼 I'm working at AQUARELA as a Junior Software Developer since November 2023.
 - 🎓 I completed a professional training course in Full Stack Software Development at Cubos Academy in May 2023.
 - 📚 Currently expanding my skills by learning Python and Nest.js.
 - 📫 How to reach me at: mlenasantanasantos@gmail.com.
